@@ -1,0 +1,6 @@
+nohup.out
+node_modules/
+
+**/nginx.conf
+**/certs/*
+**/.env
